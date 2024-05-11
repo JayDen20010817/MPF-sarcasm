@@ -1,8 +1,8 @@
 For obtaining the data for the framework,  please follow the steps:
 
 Detailed steps: 
-	1. First install the dependencies mentioned in the dependencies.txt.
-	2. Second store the dataset according to the specified path.
+1. First install the dependencies mentioned in the dependencies.txt.
+2. Second store the dataset according to the specified path.
 
 	MUStARD dataset--link:
 	Text data - It is available at https://github.com/soujanyaporia/MUStARD in data/sarcasm_data.json location. We also provide train, valid and text dlog ids with them.
@@ -12,5 +12,5 @@ Detailed steps:
 	UR-FUNNY dataset--link:   https://github.com/ROC-HCI/UR-FUNNY?tab=readme-ov-file
 
 
-	3. Finally run framework_drive.ipynb、framework_drive_ablation_T-A view.ipynb、framework_drive_ablation_T-A-V view.ipynb、framework_drive_ablation_T-V view .ipynb
-	（Low resource migration testing can be conducted by setting the training size in the framework_drive.ipynb file）
+3. Finally run framework_drive.ipynb、framework_drive_ablation_T-A view.ipynb、framework_drive_ablation_T-A-V view.ipynb、framework_drive_ablation_T-V view .ipynb
+4. （Low resource migration testing can be conducted by setting the training size in the framework_drive.ipynb file）
