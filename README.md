@@ -17,3 +17,6 @@ Detailed steps:
 
 3. Finally run framework_drive.ipynb、framework_drive_ablation_T-A view.ipynb、framework_drive_ablation_T-A-V view.ipynb、framework_drive_ablation_T-V view .ipynb
 4. （Low resource migration testing can be conducted by setting the training size in the framework_drive.ipynb file）
+
+
+![image](framework.png)
