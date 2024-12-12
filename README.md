@@ -3,7 +3,7 @@
 <img src="introduction.png" width="500 height="500">
 </p>
 
-An earlier version of this work, titled “MV-BART: Multi-view BART for Multi-modal Sarcasm Detection”, was published in the proceedings of 33th ACM International Conference on Information and Knowledge Management (CIKM 2024).
+An earlier version of this work, titled “**MV-BART: Multi-view BART for Multi-modal Sarcasm Detection**”, was published in the proceedings of 33th ACM International Conference on Information and Knowledge Management (**CIKM 2024**).
 </br>
 😁This repository is the official codebase of "**MPF: A Multi-Level Perceiving Framework for Multimodal Sarcasm Detection**"
 </br>
