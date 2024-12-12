@@ -3,10 +3,10 @@
 <img src="introduction.png" width="400 height="400">
 </p>
 
-🔥An earlier version of this work, titled “**MV-BART: Multi-view BART for Multi-modal Sarcasm Detection**”, was published in the proceedings of 33th ACM International Conference on Information and Knowledge Management (**CIKM 2024**).
+😁This repository is the official codebase of "**MPF: A Multi-Level Perceiving Framework for Multimodal Sarcasm Detection**"
 </br>
 
-😁This repository is the official codebase of "**MPF: A Multi-Level Perceiving Framework for Multimodal Sarcasm Detection**"
+🔥An earlier version of this work, titled “**MV-BART: Multi-view BART for Multi-modal Sarcasm Detection**”, was published in the proceedings of 33th ACM International Conference on Information and Knowledge Management (**CIKM 2024**).
 </br>
 
 🤗In the following, we will guide you how to use this repository step by step 
