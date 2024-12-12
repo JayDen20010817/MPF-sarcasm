@@ -21,8 +21,7 @@ In the following, we will guide you how to use this repository step by step 🤗
 	Text data - It is available at https://github.com/soujanyaporia/MUStARD in data/sarcasm_data.json location. We also provide train, valid and text dlog ids with them.
  <br /> Audio data - We first obtain raw video from https://github.com/soujanyaporia/MUStARD and convert those videos to audio format corresponding to the last utterance of every dialog. The we proceed to obtain audio features in the same manner as described in https://github.com/thuiar/MIntRec/tree/main/tools/audio_preprocess.py
 <br /> Video data - We get raws videos from https://github.com/soujanyaporia/MUStARD and obtain the video features corresponding to last utterance from https://github.com/soujanyaporia/MUStARD under Run the code section point 3 Download the pre-extracted visual features.
- <br />
-	MUStARD++ dataset--link: [https://github.com/terenceylchow124/Meme-MultiModal?tab=readme-ov-file](https://github.com/cfiltnlp/MUStARD_Plus_Plus)
+ <br /> MUStARD++ dataset--link: [https://github.com/terenceylchow124/Meme-MultiModal?tab=readme-ov-file](https://github.com/cfiltnlp/MUStARD_Plus_Plus)
 <br />
 
 4. Finally run framework_drive.ipynb、framework_drive_ablation_T-A view.ipynb, framework_drive_ablation_T-A-V view.ipynb, framework_drive_ablation_T-V view.ipynb
