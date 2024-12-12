@@ -10,7 +10,7 @@ In the following, we will guide you how to use this repository step by step 🤗
 
 ## 🤓 Overview
 <p align="center">
-  <img src="framework.png" width="700 height="700">
+  <img src="framework.png" width="900" height="900">
 </p>
 
 Detailed steps: 
