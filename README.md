@@ -1,6 +1,6 @@
 # 🤣👉MPF👈
 <p align="center">
-<img src="introduction.png"> width="300" height="300">
+<img src="introduction.png" width="300" height="300">
 </p>
 
 😁This repository is the official codebase of "**MPF: A Multi-Level Perceiving Framework for Multimodal Sarcasm Detection**"
