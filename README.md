@@ -6,7 +6,7 @@
 😁This repository is the official codebase of "**MPF: A Multi-Level Perceiving Framework for Multimodal Sarcasm Detection**"
 </br>
 </br>
-   In the following, we will guide you how to use this repository step by step 🤗
+In the following, we will guide you how to use this repository step by step 🤗
 
 ## 🤓 Overview
 <p align="center">
