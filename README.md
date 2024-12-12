@@ -1,8 +1,17 @@
 # 🤣👉MPF👈
-
+<p align="center">
 ![image](introduction.png)
- <br />
-For obtaining the data for the framework,  please follow the steps:
+</p>
+
+😁This repository is the official codebase of "**MPF: A Multi-Level Perceiving Framework for Multimodal Sarcasm Detection**"
+</br>
+</br>
+In the following, we will guide you how to use this repository step by step 🤗
+
+## 🤓 Overview
+<p align="center">
+  <img src="framework.png" width="700 height="700">
+</p>
 
 Detailed steps: 
 1. First install the dependencies mentioned in the dependencies.txt.
@@ -19,4 +28,3 @@ Detailed steps:
 4. （Low resource migration testing can be conducted by setting the training size in the framework_drive.ipynb file）
 
 
-![image](framework.png)
