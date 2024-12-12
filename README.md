@@ -23,7 +23,7 @@ In the following, we will guide you how to use this repository step by step 🤗
 <br /> Video data - We get raws videos from https://github.com/soujanyaporia/MUStARD and obtain the video features corresponding to last utterance from https://github.com/soujanyaporia/MUStARD under Run the code section point 3 Download the pre-extracted visual features.
  <br /> **MUStARD++** dataset--link: [https://github.com/terenceylchow124/Meme-MultiModal?tab=readme-ov-file](https://github.com/cfiltnlp/MUStARD_Plus_Plus)
 <br /> **UR-FUNNY** dataset--link: https://github.com/ROC-HCI/UR-FUNNY <br />
-4. Finally run framework_drive.ipynb、framework_drive_ablation_T-A view.ipynb, framework_drive_ablation_T-A-V view.ipynb, framework_drive_ablation_T-V view.ipynb
+4. Finally run framework_drive.ipynb, framework_drive_ablation_T-A view.ipynb, framework_drive_ablation_T-A-V view.ipynb, framework_drive_ablation_T-V view.ipynb
 5. (Low resource migration testing can be conducted by setting the training size in the framework_drive.ipynb file）
 
 
