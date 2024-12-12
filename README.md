@@ -13,7 +13,7 @@ In the following, we will guide you how to use this repository step by step 🤗
   <img src="framework.png" width="900 height="900"
 </p>
 
-##📣Detailed steps:
+## 📣Detailed steps:
 1. First install the dependencies mentioned in the dependencies.txt.
 2. Second store the dataset according to the specified path.
 
